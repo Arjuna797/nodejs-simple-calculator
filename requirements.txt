@@ -1,0 +1,18 @@
+# Project: Simple Calculator (Node.js Educational Demo)
+# Description: Minimal static web app served using Node.js built-in HTTP module.
+
+# Node.js version required
+Node.js >= 18.0.0
+
+# NPM (Node Package Manager)
+npm >= 9.0.0
+
+# External dependencies
+None
+
+# Notes:
+# - This project uses only core Node.js modules (http, fs, path).
+# - No package.json or npm install steps are required.
+# - To run:
+#     1. node server.js
+#     2. Open http://localhost:80 (or your chosen port)
